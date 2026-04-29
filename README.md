@@ -2,7 +2,7 @@
 
 <!-- Animated Typing Header -->
 <a href="https://github.com/Susant07-star">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hey+there%2C+I'm+Surya+%E2%9C%A8;aka+Susant+%7C+Builder+%7C+Dreamer+%7C+Creator+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=4500&pause=1200&color=00D4FF&center=true&vCenter=true&multiline=true&width=900&height=110&lines=Hey+there%2C+I'm+Surya+%E2%9C%A8;Susant+%7C+Builder+%7C+Dreamer+%7C+Creator+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -44,7 +44,7 @@ class Surya:
 ```
 
 - 🤖 Built **ROVA** — an AI-powered, voice-controlled 4-wheel robot (PROTO-X Project)
-- 🌱 Working on **eco-tech** with the Go-Green Project
+- ⏳ Built a **Board Exam Countdown** for NEB Class 12 students in Nepal
 - 📚 Made a **free OCR Study Helper** so students can scan & solve textbook problems
 - 🏫 Part of **TSA IT Club** — building digital infrastructure for my school
 - 💡 I love merging **hardware + software** to solve real-world problems
@@ -90,8 +90,8 @@ class Surya:
 <a href="https://github.com/Susant07-star/EsewaVoice">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Susant07-star&repo=EsewaVoice&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7B2FBE&text_color=ffffff" alt="EsewaVoice"/>
 </a>
-<a href="https://github.com/Susant07-star/Go-Green-Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Susant07-star&repo=Go-Green-Project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7B2FBE&text_color=ffffff" alt="Go Green"/>
+<a href="https://github.com/Susant07-star/board-exam-countdown-2083">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Susant07-star&repo=board-exam-countdown-2083&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7B2FBE&text_color=ffffff" alt="Board Exam Countdown"/>
 </a>
 
 </div>
@@ -148,15 +148,16 @@ A smart voice notification app for **eSewa** (Nepal's top payment platform):
 </td>
 <td width="50%">
 
-### 🌿 Go Green Project
-> *Eco-Awareness Platform*
+### ⏳ Board Exam Countdown 2083
+> *NEB Class 12 Exam Timer*
 
-A web platform promoting environmental sustainability and green living in Nepal:
-- 🌱 Eco-friendly awareness
-- 🌍 Community impact focus
-- 💡 Clean, minimal design
+A real-time countdown website for NEB Class 12 board exams, built for Nepali students:
+- 🎯 Subject-wise countdown timers
+- 🌐 Live on Netlify — used by students
+- 🌙 Dark neon aesthetic design
+- ⚡ Pure HTML/CSS/JS — blazing fast
 
-[![View Project](https://img.shields.io/badge/View%20Project-22c55e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Susant07-star/Go-Green-Project)
+[![View Project](https://img.shields.io/badge/View%20Project-F59E0B?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Susant07-star/board-exam-countdown-2083)
 
 </td>
 </tr>
