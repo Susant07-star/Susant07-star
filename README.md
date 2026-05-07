@@ -35,17 +35,17 @@ class Surya:
     alias      = "Susant | Susant07-star"
     location   = "Nepal 🇳🇵"
     passion    = ["Robotics", "AI/ML", "Web Dev", "Open Source"]
-    currently  = "Building ROVA — Voice-Controlled Robot 🤖"
+    currently  = "Developing Jarvis — Your Personal AI Assistant 🧠"
     learning   = ["Python", "AI", "Embedded Systems"]
-    fun_fact   = "I talk to my robot more than people 😄"
+    fun_fact   = "I talk to my AI assistant more than people 😄"
     
     def greet(self):
         return "Let's build something incredible together! 🚀"
 ```
 
+- 🧠 Building **Jarvis-AI** — A TypeScript-powered advanced assistant for system automation
 - 🤖 Built **ROVA** — an AI-powered, voice-controlled 4-wheel robot (PROTO-X Project)
 - ⏳ Built a **Board Exam Countdown** for NEB Class 12 students in Nepal
-- 📚 Made a **free OCR Study Helper** so students can scan & solve textbook problems
 - 🏫 Part of **TSA IT Club** — building digital infrastructure for my school
 - 💡 I love merging **hardware + software** to solve real-world problems
 
@@ -80,15 +80,6 @@ class Surya:
 
 <div align="center">
 
-<a href="https://github.com/Susant07-star/PROTO-X-ROVA">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Susant07-star&repo=PROTO-X-ROVA&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7B2FBE&text_color=ffffff" alt="ROVA"/>
-</a>
-<a href="https://github.com/Susant07-star/board-exam-countdown-2083">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Susant07-star&repo=board-exam-countdown-2083&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7B2FBE&text_color=ffffff" alt="Board Exam Countdown"/>
-</a>
-
-<br/>
-
 <a href="https://github.com/Susant07-star/Jarvis-AI">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Susant07-star&repo=Jarvis-AI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7B2FBE&text_color=ffffff" alt="Jarvis-AI"/>
 </a>
@@ -104,6 +95,34 @@ class Surya:
 ## 🌟 What I've Built
 
 <table>
+<tr>
+<td width="50%">
+
+### 🧠 Jarvis-AI
+> *Real jarvis assistant*
+
+A TypeScript-based advanced AI assistant built for productivity and system automation:
+- 🤖 Intelligent task handling
+- ⌨️ Fully customizable commands
+- 🚀 Built with TypeScript
+
+[![View Project](https://img.shields.io/badge/View%20Project-00D4FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Susant07-star/Jarvis-AI)
+
+</td>
+<td width="50%">
+
+### ⏱️ HourForge
+> *Productivity app*
+
+A sleek productivity tool designed to help manage time efficiently:
+- ⏳ Focus tracking
+- 📊 Progress visualization
+- ⚡ JavaScript powered
+
+[![View Project](https://img.shields.io/badge/View%20Project-7B2FBE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Susant07-star/HourForge)
+
+</td>
+</tr>
 <tr>
 <td width="50%">
 
@@ -134,34 +153,6 @@ A real-time countdown website for NEB Class 12 board exams, built for Nepali stu
 
 </td>
 </tr>
-<tr>
-<td width="50%">
-
-### 🧠 Jarvis-AI
-> *Real jarvis assistant*
-
-A TypeScript-based advanced AI assistant built for productivity and system automation:
-- 🤖 Intelligent task handling
-- ⌨️ Fully customizable commands
-- 🚀 Built with TypeScript
-
-[![View Project](https://img.shields.io/badge/View%20Project-00D4FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Susant07-star/Jarvis-AI)
-
-</td>
-<td width="50%">
-
-### ⏱️ HourForge
-> *Productivity app*
-
-A sleek productivity tool designed to help manage time efficiently:
-- ⏳ Focus tracking
-- 📊 Progress visualization
-- ⚡ JavaScript powered
-
-[![View Project](https://img.shields.io/badge/View%20Project-7B2FBE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Susant07-star/HourForge)
-
-</td>
-</tr>
 </table>
 
 ---
@@ -171,17 +162,16 @@ A sleek productivity tool designed to help manage time efficiently:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Susant07-star&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7B2FBE&text_color=ffffff&rank_icon=github" alt="GitHub Stats" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Susant07-star&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=7B2FBE&currStreakLabel=00D4FF&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" width="49%"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Susant07-star&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7B2FBE&text_color=ffffff&rank_icon=github)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Susant07-star&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=7B2FBE&currStreakLabel=00D4FF&sideLabels=ffffff&dates=ffffff)
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Susant07-star&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff&langs_count=8" alt="Top Languages" width="49%"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Susant07-star&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff&langs_count=8)
 
 <br/><br/>
 
-<!-- GitHub Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Susant07-star&theme=tokyo-night&bg_color=0D1117&color=00D4FF&line=7B2FBE&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="98%"/>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Susant07-star&theme=tokyo-night&bg_color=0D1117&color=00D4FF&line=7B2FBE&point=ffffff&area=true&hide_border=true)
 
 </div>
 
@@ -200,11 +190,11 @@ A sleek productivity tool designed to help manage time efficiently:
 ## 🔭 What I'm Up To
 
 ```
-🔨 Building  →  PROTO-X ROVA v2.0 (Smarter AI + Better Vision)
+🔨 Building  →  Jarvis-AI (Next-Gen Productivity Assistant 🧠)
 📖 Learning  →  Machine Learning & Embedded Systems
 🤝 Open to   →  Collaborations, Open Source, Internships
-🎯 Goal      →  Make tech accessible to every Nepali student
-💬 Ask me    →  Robotics, Web Dev, Python, or just say Hi!
+🎯 Goal      →  Empower students through AI & Automation
+💬 Ask me    →  AI/ML, Robotics, Web Dev, or just say Hi!
 ```
 
 ---

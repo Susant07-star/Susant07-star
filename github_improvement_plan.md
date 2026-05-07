@@ -124,9 +124,15 @@ jobs:
 > **Status:** ⏳ Not done  
 > **Why:** Every repo currently has a weak or no README. A great README = credibility + stars.
 
-**Repos that need READMEs (priority order):**
+#### A. `Jarvis-AI` — Most impressive project
+Should include:
+- Project banner image / demo GIF
+- Features list (Task handling, Custom commands)
+- Architecture overview
+- Installation steps (TypeScript/Node.js)
+- Tech stack badges (TypeScript, Node.js, AI)
 
-#### A. `PROTO-X-ROVA` — Most impressive project
+#### B. `PROTO-X-ROVA`
 Should include:
 - Project banner image / demo GIF
 - Hardware components list (motors, RPi, sensors)
@@ -135,14 +141,6 @@ Should include:
 - Voice commands list
 - Demo video link
 - Tech stack badges
-
-#### B. `board-exam-countdown-2083`
-Should include:
-- Screenshot of the website
-- Live demo link (Netlify URL)
-- Features list
-- How to use
-- Subjects covered
 
 ---
 
@@ -194,6 +192,7 @@ Should include:
 | Pin top 6 repos | 🔴 High | ⏳ Pending |
 | Fill GitHub profile sidebar | 🔴 High | ⏳ Pending |
 | Add topics to all repos | 🔴 High | ⏳ Pending |
+| Jarvis-AI README | 🟡 Medium | ⏳ Pending |
 | ROVA README | 🟡 Medium | ⏳ Pending |
 | board-exam-countdown README | 🟡 Medium | ⏳ Pending |
 | Social preview images | 🟡 Medium | ⏳ Pending |
