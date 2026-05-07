@@ -9,7 +9,7 @@
 - [x] Epic animated Profile README with typing header, wave banners
 - [x] About Me section (Python class style)
 - [x] Tech Stack skill icons
-- [x] Featured project repo cards (ROVA, Study-helper, EsewaVoice, board-exam-countdown-2083)
+- [x] Featured project repo cards (ROVA, board-exam-countdown-2083, Jarvis-AI, HourForge)
 - [x] Project showcase table with descriptions
 - [x] Live GitHub Stats card, Streak counter, Top Languages, Activity Graph
 - [x] GitHub Trophies section
@@ -80,13 +80,11 @@ jobs:
 **Steps:**
 1. Go to https://github.com/Susant07-star
 2. Click "Customize your pins"
-3. Pin these 6 repos (in order):
+3. Pin these 4 repos (in order):
    - `Jarvis-AI`
    - `PROTO-X-ROVA`
    - `HourForge`
    - `board-exam-countdown-2083`
-   - `Study-helper`
-   - `EsewaVoice`
 
 ---
 
@@ -116,8 +114,6 @@ jobs:
 |---|---|
 | PROTO-X-ROVA | `robotics`, `raspberry-pi`, `voice-control`, `opencv`, `python`, `ai`, `arduino` |
 | board-exam-countdown-2083 | `nepal`, `neb`, `countdown`, `javascript`, `education`, `netlify` |
-| Study-helper | `ocr`, `students`, `nepal`, `education`, `html`, `free-tool` |
-| EsewaVoice | `esewa`, `nepal`, `fintech`, `voice`, `javascript` |
 | TSA-IT-Club-website | `school`, `club`, `website`, `html`, `nepal` |
 
 ---
@@ -147,19 +143,6 @@ Should include:
 - Features list
 - How to use
 - Subjects covered
-
-#### C. `Study-helper`
-Should include:
-- How to scan with phone camera
-- Screenshot/GIF of it working
-- Supported question types
-- No sign-up required callout
-
-#### D. `EsewaVoice`
-Should include:
-- How it works
-- Setup instructions
-- Screenshot
 
 ---
 
@@ -213,8 +196,6 @@ Should include:
 | Add topics to all repos | 🔴 High | ⏳ Pending |
 | ROVA README | 🟡 Medium | ⏳ Pending |
 | board-exam-countdown README | 🟡 Medium | ⏳ Pending |
-| Study-helper README | 🟡 Medium | ⏳ Pending |
-| EsewaVoice README | 🟡 Medium | ⏳ Pending |
 | Social preview images | 🟡 Medium | ⏳ Pending |
 | Portfolio website | 🟡 Medium | ⏳ Pending |
 | `.github/` templates | 🟢 Low | ⏳ Pending |

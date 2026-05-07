@@ -83,13 +83,6 @@ class Surya:
 <a href="https://github.com/Susant07-star/PROTO-X-ROVA">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Susant07-star&repo=PROTO-X-ROVA&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7B2FBE&text_color=ffffff" alt="ROVA"/>
 </a>
-<a href="https://github.com/Susant07-star/Study-helper">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Susant07-star&repo=Study-helper&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7B2FBE&text_color=ffffff" alt="Study Helper"/>
-</a>
-
-<a href="https://github.com/Susant07-star/EsewaVoice">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Susant07-star&repo=EsewaVoice&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7B2FBE&text_color=ffffff" alt="EsewaVoice"/>
-</a>
 <a href="https://github.com/Susant07-star/board-exam-countdown-2083">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Susant07-star&repo=board-exam-countdown-2083&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7B2FBE&text_color=ffffff" alt="Board Exam Countdown"/>
 </a>
@@ -124,35 +117,6 @@ A **4-wheel autonomous robot** that combines heavy-duty hardware with a modern A
 - 🔊 Speech synthesis feedback
 
 [![View Project](https://img.shields.io/badge/View%20Project-00D4FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Susant07-star/PROTO-X-ROVA)
-
-</td>
-<td width="50%">
-
-### 📚 Study Helper
-> *Free OCR Tool for Students*
-
-Scan textbook questions using your phone camera and get instant help. Built for students who can't afford paid tools:
-- 📷 Camera-based OCR scanning
-- ⚡ Instant question processing
-- 🆓 100% Free for students
-- 🌐 Works in the browser
-
-[![View Project](https://img.shields.io/badge/View%20Project-7B2FBE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Susant07-star/Study-helper)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 💸 EsewaVoice
-> *Voice Payment Notifications*
-
-A smart voice notification app for **eSewa** (Nepal's top payment platform):
-- 🔔 Real-time payment alerts
-- 🗣️ Voice announcement system
-- 📱 Lightweight HTML/JS app
-
-[![View Project](https://img.shields.io/badge/View%20Project-00D4FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Susant07-star/EsewaVoice)
 
 </td>
 <td width="50%">
