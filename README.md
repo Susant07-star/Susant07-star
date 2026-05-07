@@ -94,6 +94,15 @@ class Surya:
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Susant07-star&repo=board-exam-countdown-2083&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7B2FBE&text_color=ffffff" alt="Board Exam Countdown"/>
 </a>
 
+<br/>
+
+<a href="https://github.com/Susant07-star/Jarvis-AI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Susant07-star&repo=Jarvis-AI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7B2FBE&text_color=ffffff" alt="Jarvis-AI"/>
+</a>
+<a href="https://github.com/Susant07-star/HourForge">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Susant07-star&repo=HourForge&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7B2FBE&text_color=ffffff" alt="HourForge"/>
+</a>
+
 </div>
 
 ---
@@ -161,6 +170,34 @@ A real-time countdown website for NEB Class 12 board exams, built for Nepali stu
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+### 🧠 Jarvis-AI
+> *Real jarvis assistant*
+
+A TypeScript-based advanced AI assistant built for productivity and system automation:
+- 🤖 Intelligent task handling
+- ⌨️ Fully customizable commands
+- 🚀 Built with TypeScript
+
+[![View Project](https://img.shields.io/badge/View%20Project-00D4FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Susant07-star/Jarvis-AI)
+
+</td>
+<td width="50%">
+
+### ⏱️ HourForge
+> *Productivity app*
+
+A sleek productivity tool designed to help manage time efficiently:
+- ⏳ Focus tracking
+- 📊 Progress visualization
+- ⚡ JavaScript powered
+
+[![View Project](https://img.shields.io/badge/View%20Project-7B2FBE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Susant07-star/HourForge)
+
+</td>
+</tr>
 </table>
 
 ---
@@ -225,9 +262,9 @@ A real-time countdown website for NEB Class 12 board exams, built for Nepali stu
 
 <!-- Snake Animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Susant07-star/Susant07-star/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Susant07-star/Susant07-star/output/github-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Susant07-star/Susant07-star/output/github-snake.svg"/>
 </picture>
 
 </div>
