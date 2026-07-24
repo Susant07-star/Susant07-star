@@ -191,26 +191,16 @@ An intelligent call management system powered by AI:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Susant07-star&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7B2FBE&text_color=ffffff&rank_icon=github)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Susant07-star&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=7B2FBE&currStreakLabel=00D4FF&sideLabels=ffffff&dates=ffffff)
-
-<br/>
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Susant07-star&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff&langs_count=8)
+<img src="https://metrics.lecoq.io/Susant07-star?template=classic&base=activity,community,repositories,metadata&config_timezone=Asia%2FKathmandu" alt="Metrics" />
 
 <br/><br/>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Susant07-star&theme=tokyo-night&bg_color=0D1117&color=00D4FF&line=7B2FBE&point=ffffff&area=true&hide_border=true)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Susant07-star&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff&langs_count=8&v=3" alt="Top Languages" />
 
-</div>
+<br/><br/>
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Susant07-star&theme=tokyo-night&bg_color=0D1117&color=00D4FF&line=7B2FBE&point=ffffff&area=true&hide_border=true&v=2" alt="Activity Graph" />
 
-<!-- Achievements & Trophies -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-trophies.vercel.app/?username=Susant07-star&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophies"/>
 </div>
 
 ---
