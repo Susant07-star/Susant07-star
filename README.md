@@ -58,19 +58,19 @@ class Surya:
 <div align="center">
 
 ### 💻 Languages
-<img src="https://skillicons.dev/icons?i=python,html,css,js,c,cpp&theme=dark" alt="Languages"/>
-
-### 🔧 Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,raspberrypi,linux&theme=dark" alt="Tools"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,ts,bash&theme=dark" alt="Languages"/>
 
 ### 🌐 Web & Frameworks
-<img src="https://skillicons.dev/icons?i=react,nodejs,electron,netlify&theme=dark" alt="Web"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,electron,vite&theme=dark" alt="Web"/>
 
-### 🤖 AI & Hardware
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" alt="AI"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="RPi"/>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+### 🗄️ Databases & Cloud
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,netlify,vercel&theme=dark" alt="Cloud"/>
+
+### 🤖 AI & Machine Learning
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,numpy,pandas&theme=dark" alt="AI"/>
+
+### 🔧 Tools, OS & Hardware
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,windows,arduino,raspberrypi&theme=dark" alt="Tools"/>
 
 </div>
 
