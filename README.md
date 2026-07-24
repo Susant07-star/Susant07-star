@@ -45,7 +45,8 @@ class Surya:
 
 - 🧠 Building **Jarvis-AI** — A TypeScript-powered advanced assistant for system automation
 - 🤖 Built **ROVA** — an AI-powered, voice-controlled 4-wheel robot (PROTO-X Project)
-- ⏳ Built a **Board Exam Countdown** for NEB Class 12 students in Nepal
+- 💸 Built a **Shared Expense System** — smart bill splitting for groups & roommates
+- 📞 Built **AI-Call Receiver** — an AI-powered automated call management system
 - 🏫 Part of **TSA IT Club** — building digital infrastructure for my school
 - 💡 I love merging **hardware + software** to solve real-world problems
 
@@ -81,16 +82,19 @@ class Surya:
 <div align="center">
 
 <a href="https://github.com/Susant07-star/Jarvis-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Susant07-star&repo=Jarvis-AI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7B2FBE&text_color=ffffff" alt="Jarvis-AI"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Susant07-star&repo=Jarvis-AI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7B2FBE&text_color=ffffff" alt="Jarvis-AI"/>
+</a>
+<a href="https://github.com/Susant07-star/PROTO-X-ROVA">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Susant07-star&repo=PROTO-X-ROVA&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7B2FBE&text_color=ffffff" alt="PROTO-X-ROVA"/>
 </a>
 <a href="https://github.com/Susant07-star/HourForge">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Susant07-star&repo=HourForge&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7B2FBE&text_color=ffffff" alt="HourForge"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Susant07-star&repo=HourForge&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7B2FBE&text_color=ffffff" alt="HourForge"/>
 </a>
-<a href="https://github.com/Susant07-star/shared-expense-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Susant07-star&repo=shared-expense-system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7B2FBE&text_color=ffffff" alt="Shared Expense System"/>
+<a href="https://github.com/Susant07-star/Shared_Expense_System">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Susant07-star&repo=Shared_Expense_System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7B2FBE&text_color=ffffff" alt="Shared Expense System"/>
 </a>
-<a href="https://github.com/Susant07-star/ai-call-receiver">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Susant07-star&repo=ai-call-receiver&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7B2FBE&text_color=ffffff" alt="AI-Call Receiver"/>
+<a href="https://github.com/Susant07-star/AI-Call-Receiver">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Susant07-star&repo=AI-Call-Receiver&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7B2FBE&text_color=ffffff" alt="AI-Call Receiver"/>
 </a>
 
 </div>
@@ -155,7 +159,7 @@ A seamless way to manage and split expenses among friends and groups:
 - 💳 Seamless group management
 - 📱 Responsive and intuitive UI
 
-[![View Project](https://img.shields.io/badge/View%20Project-F59E0B?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Susant07-star/shared-expense-system)
+[![View Project](https://img.shields.io/badge/View%20Project-F59E0B?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Susant07-star/Shared_Expense_System)
 
 </td>
 </tr>
@@ -171,7 +175,7 @@ An intelligent call management system powered by AI:
 - 📝 Smart call transcription
 - ⚡ Seamless integration
 
-[![View Project](https://img.shields.io/badge/View%20Project-2E8B57?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Susant07-star/ai-call-receiver)
+[![View Project](https://img.shields.io/badge/View%20Project-2E8B57?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Susant07-star/AI-Call-Receiver)
 
 </td>
 <td width="50%">
@@ -187,12 +191,12 @@ An intelligent call management system powered by AI:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Susant07-star&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7B2FBE&text_color=ffffff&rank_icon=github)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Susant07-star&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7B2FBE&text_color=ffffff&rank_icon=github)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Susant07-star&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=7B2FBE&currStreakLabel=00D4FF&sideLabels=ffffff&dates=ffffff)
 
 <br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Susant07-star&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff&langs_count=8)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Susant07-star&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff&langs_count=8)
 
 <br/><br/>
 
@@ -206,7 +210,7 @@ An intelligent call management system powered by AI:
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Susant07-star&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="Trophies"/>
+<img src="https://github-trophies.vercel.app/?username=Susant07-star&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophies"/>
 </div>
 
 ---
