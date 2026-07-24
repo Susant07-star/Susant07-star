@@ -58,19 +58,49 @@ class Surya:
 <div align="center">
 
 ### 💻 Languages
-<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,ts,bash&theme=dark" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" title="Python"/>
+<img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C" title="C"/>
+<img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" title="C++"/>
+<img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML" title="HTML"/>
+<img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS" title="CSS"/>
+<img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" title="JavaScript"/>
+<img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" title="TypeScript"/>
+<img src="https://skillicons.dev/icons?i=bash&theme=dark" alt="Bash" title="Bash"/>
 
 ### 🌐 Web & Frameworks
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,electron,vite&theme=dark" alt="Web"/>
+<img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" title="React"/>
+<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" title="Next.js"/>
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" title="Node.js"/>
+<img src="https://skillicons.dev/icons?i=express&theme=dark" alt="Express" title="Express"/>
+<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="TailwindCSS" title="TailwindCSS"/>
+<img src="https://skillicons.dev/icons?i=electron&theme=dark" alt="Electron" title="Electron"/>
+<img src="https://skillicons.dev/icons?i=vite&theme=dark" alt="Vite" title="Vite"/>
 
 ### 🗄️ Databases & Cloud
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,netlify,vercel&theme=dark" alt="Cloud"/>
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" title="MongoDB"/>
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" title="MySQL"/>
+<img src="https://skillicons.dev/icons?i=firebase&theme=dark" alt="Firebase" title="Firebase"/>
+<img src="https://skillicons.dev/icons?i=netlify&theme=dark" alt="Netlify" title="Netlify"/>
+<img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Vercel" title="Vercel"/>
 
 ### 🤖 AI & Machine Learning
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,numpy,pandas&theme=dark" alt="AI"/>
+<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" alt="TensorFlow" title="TensorFlow"/>
+<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="PyTorch" title="PyTorch"/>
+<img src="https://skillicons.dev/icons?i=opencv&theme=dark" alt="OpenCV" title="OpenCV"/>
+<img src="https://skillicons.dev/icons?i=sklearn&theme=dark" alt="scikit-learn" title="scikit-learn"/>
+<img src="https://skillicons.dev/icons?i=numpy&theme=dark" alt="NumPy" title="NumPy"/>
+<img src="https://skillicons.dev/icons?i=pandas&theme=dark" alt="Pandas" title="Pandas"/>
 
 ### 🔧 Tools, OS & Hardware
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,windows,arduino,raspberrypi&theme=dark" alt="Tools"/>
+<img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" title="Git"/>
+<img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" title="GitHub"/>
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" title="VS Code"/>
+<img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman" title="Postman"/>
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" title="Docker"/>
+<img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" title="Linux"/>
+<img src="https://skillicons.dev/icons?i=windows&theme=dark" alt="Windows" title="Windows"/>
+<img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino" title="Arduino"/>
+<img src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" alt="Raspberry Pi" title="Raspberry Pi"/>
 
 </div>
 
