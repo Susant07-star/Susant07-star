@@ -191,14 +191,6 @@ An intelligent call management system powered by AI:
 
 <div align="center">
 
-<img src="https://metrics.lecoq.io/Susant07-star?template=classic&base=activity,community,repositories,metadata&config_timezone=Asia%2FKathmandu" alt="Metrics" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Susant07-star&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff&langs_count=8&v=3" alt="Top Languages" />
-
-<br/><br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Susant07-star&theme=tokyo-night&bg_color=0D1117&color=00D4FF&line=7B2FBE&point=ffffff&area=true&hide_border=true&v=2" alt="Activity Graph" />
 
 </div>
