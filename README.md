@@ -86,6 +86,12 @@ class Surya:
 <a href="https://github.com/Susant07-star/HourForge">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Susant07-star&repo=HourForge&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7B2FBE&text_color=ffffff" alt="HourForge"/>
 </a>
+<a href="https://github.com/Susant07-star/shared-expense-system">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Susant07-star&repo=shared-expense-system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7B2FBE&text_color=ffffff" alt="Shared Expense System"/>
+</a>
+<a href="https://github.com/Susant07-star/ai-call-receiver">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Susant07-star&repo=ai-call-receiver&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7B2FBE&text_color=ffffff" alt="AI-Call Receiver"/>
+</a>
 
 </div>
 
@@ -140,17 +146,36 @@ A **4-wheel autonomous robot** that combines heavy-duty hardware with a modern A
 </td>
 <td width="50%">
 
-### ⏳ Board Exam Countdown 2083
-> *NEB Class 12 Exam Timer*
+### 💸 Shared Expense System
+> *Smart Expense Tracker*
 
-A real-time countdown website for NEB Class 12 board exams, built for Nepali students:
-- 🎯 Subject-wise countdown timers
-- 🌐 Live on Netlify — used by students
-- 🌙 Dark neon aesthetic design
-- ⚡ Pure HTML/CSS/JS — blazing fast
+A seamless way to manage and split expenses among friends and groups:
+- 📊 Real-time expense tracking
+- 🔄 Fair split algorithms
+- 💳 Seamless group management
+- 📱 Responsive and intuitive UI
 
-[![View Project](https://img.shields.io/badge/View%20Project-F59E0B?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Susant07-star/board-exam-countdown-2083)
+[![View Project](https://img.shields.io/badge/View%20Project-F59E0B?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Susant07-star/shared-expense-system)
 
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📞 AI-Call Receiver
+> *Automated Call Assistant*
+
+An intelligent call management system powered by AI:
+- 🤖 Auto-answers routine calls
+- 🗣️ Natural language understanding
+- 📝 Smart call transcription
+- ⚡ Seamless integration
+
+[![View Project](https://img.shields.io/badge/View%20Project-2E8B57?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Susant07-star/ai-call-receiver)
+
+</td>
+<td width="50%">
+<!-- Empty cell for layout balance -->
 </td>
 </tr>
 </table>
