@@ -8,7 +8,7 @@
 <br/>
 
 <!-- Animated Wave Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0a3d62,60:00D4FF,100:7B2FBE&height=200&section=header&text=Surya%20Bhandari&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Student%20Developer%20%7C%20Robotics%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=58&descColor=00D4FF&animation=fadeIn" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0a3d62,60:00D4FF,100:7B2FBE&height=200&section=header&text=Surya%20Bhandari&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=%20Developer%20%7C%20Robotics%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=58&descColor=00D4FF&animation=fadeIn" alt="header"/>
 
 <br/>
 
@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/github/followers/Susant07-star?label=Followers&style=for-the-badge&color=00D4FF&labelColor=0D1117&logo=github" alt="GitHub Followers"/>
 </a>
 <img src="https://img.shields.io/badge/Status-Building%20Cool%20Stuff-brightgreen?style=for-the-badge&labelColor=0D1117&color=7B2FBE" alt="Status"/>
-<img src="https://img.shields.io/badge/From-Nepal%20🇳🇵-red?style=for-the-badge&labelColor=0D1117&color=DC143C" alt="Nepal"/>
+<img src="https://img.shields.io/badge/%20🇳🇵-red?style=for-the-badge&labelColor=0D1117&color=DC143C" alt=""/>
 <img src="https://komarev.com/ghpvc/?username=Susant07-star&label=Profile+Views&color=00D4FF&style=for-the-badge&labelColor=0D1117" alt="Profile Views"/>
 
 </div>
@@ -33,7 +33,6 @@
 class Surya:
     name       = "Surya Bhandari"
     alias      = "Susant | Susant07-star"
-    location   = "Nepal 🇳🇵"
     passion    = ["Robotics", "AI/ML", "Web Dev", "Open Source"]
     currently  = "Developing Jarvis — Your Personal AI Assistant 🧠"
     learning   = ["Python", "AI", "Embedded Systems"]
