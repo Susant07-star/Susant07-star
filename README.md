@@ -1,5 +1,5 @@
 <!-- Animated Wave Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0a3d62,60:00D4FF,100:7B2FBE&height=200&section=header&text=Surya%20Bhandari&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Student%20Developer%20%7C%20Robotics%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=58&descColor=00D4FF&animation=fadeIn" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0a3d62,60:00D4FF,100:7B2FBE&height=200&section=header&text=Surya%20Bhandari&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Building%20AI%20agents,%20web%20tools,%20and%20modern%20software.&descAlignY=58&descColor=00D4FF&animation=fadeIn" alt="header"/>
 
 <div align="center">
 
@@ -7,6 +7,14 @@
 <a href="https://github.com/Susant07-star">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=4500&pause=1200&color=00D4FF&center=true&vCenter=true&multiline=true&width=900&height=110&lines=Hey+there%2C+I'm+Surya+%E2%9C%A8;Welcome+to+my+GitHub+Profile+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
+
+<br/>
+
+<p align="center">
+  <b>Building AI agents, web tools, and modern software.</b> <br>
+  I'm Surya Bhandari, a developer focused on crafting high-performance,<br>
+  beautifully engineered web applications and intelligent systems.
+</p>
 
 <br/>
 
