@@ -72,7 +72,7 @@ jobs:
 
 ---
 
-### 2. 📌 Pin Top 6 Repos on Profile
+### 2. 📌 Pin Top 6 Repos on Profile  (Done)
 > **Status:** ⏳ Not done  
 > **Time:** 5 minutes (manual on GitHub)  
 > **Why:** Visitors see pinned repos immediately. Nothing is pinned right now.
@@ -88,7 +88,7 @@ jobs:
 
 ---
 
-### 3. 🧑 Fill in GitHub Profile Sidebar
+### 3. 🧑 Fill in GitHub Profile Sidebar  (Done)
 > **Status:** ⏳ Not done  
 > **Time:** 5 minutes (manual on GitHub)  
 > **Why:** Your sidebar is completely blank — looks unprofessional
