@@ -24,7 +24,7 @@
 <h3 align="center">🚀 Discover my projects, skills, and experience on my portfolio!</h3>
 
 <div align="center">
-  <a href="https://suryabhandari.vercel.app">
+  <a href="https://suryabhandari.vercel.app" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Visit_My_Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white&color=7B2FBE&style=for-the-badge" alt="Portfolio"/>
   </a>
 </div>
