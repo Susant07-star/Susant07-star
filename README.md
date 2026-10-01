@@ -41,6 +41,17 @@
 
 ---
 
+<!-- Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Susant07-star/Susant07-star/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Susant07-star/Susant07-star/output/github-snake.svg"/>
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Susant07-star/Susant07-star/output/github-snake.svg"/>
+  </picture>
+</div>
+
+---
+
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FBE,50:00D4FF,100:0D1117&height=120&section=footer" alt="footer"/>
 
