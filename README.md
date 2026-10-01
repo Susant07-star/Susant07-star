@@ -45,7 +45,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Susant07-star&show_icons=true&theme=tokyonight&hide_border=true&v=2" alt="GitHub Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Susant07-star&theme=github_dark&v=2" alt="GitHub Stats"/>
 
 <br/>
 
